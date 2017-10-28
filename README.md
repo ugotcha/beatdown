@@ -26,18 +26,18 @@ Genre: <!-- {$gd_track_genre} -->
 #### Seer of Beats
 
 Tracks <!-- {$gd_selector_tracks} -->
-- [Nothing](https://soundcloud.com/ugotsta/nothing)
-- [Glitchers](https://soundcloud.com/ugotsta/glitchers)
-- [Those Are Not Goblins](https://soundcloud.com/ugotsta/those-are-not-goblins)
-- [Voyage of the Mothership](https://soundcloud.com/ugotsta/voyage-of-the-mothership)
-- [Insanity's Bliss](https://soundcloud.com/ugotsta/insanitys-bliss)
-- [Voices](https://soundcloud.com/ugotsta/voices)
-- [Something in the Basement](https://soundcloud.com/ugotsta/something-in-the-basement)
-- [Depths](https://soundcloud.com/ugotsta/depths)
-- [Breathe](https://soundcloud.com/ugotsta/breathe)
-- [Ultima 6 - Among the Stones](https://soundcloud.com/ugotsta/ultima-6-among-the-stones)
-- [Ultimate 6 - Choose your Destiny](https://soundcloud.com/ugotsta/ultima-6-choose-your-destiny)
-- [Chronotrigger - Gato's Dub](https://soundcloud.com/ugotsta/chronotrigger-gatos-dub?in=ugotsta/sets/remixes)
+- [You're not alone](https://soundcloud.com/ugotsta/youre-not-alone)
+- [Possessed machine](https://soundcloud.com/ugotsta/possessed-machine)
+- [WE NO HOME](https://soundcloud.com/ugotsta/we-no-home)
+- [Voicemail rap](https://soundcloud.com/ugotsta/voicemail-rap)
+- [Voice Response gameshow](https://soundcloud.com/ugotsta/voice-response-gameshow)
+- [The Hell Registrar Recorder](https://soundcloud.com/ugotsta/the-hell-registrar-recorder)
+- [Poetically Disturbing](https://soundcloud.com/ugotsta/poetically-disturbing)
+- [Grampa Howie](https://soundcloud.com/ugotsta/grampa-howie)
+- [Funkanose greeting](https://soundcloud.com/ugotsta/funkanose-greeting)
+- [Hoedown](https://soundcloud.com/ugotsta/hoedown)
+- [Countdown](https://soundcloud.com/ugotsta/countdown)
+- [Leave it](https://soundcloud.com/ugotsta/leave-it)
 
 <!-- {$gd_slider_volume="1,0,1,0.01"} -->
 
