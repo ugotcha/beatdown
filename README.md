@@ -13,9 +13,13 @@ DasKitz isht fur ur anrufbeantworter. Ya, ve are maken der messagen fur to keepe
 
 <!-- {$gd_track_description} -->
 
-Genre: <!-- {$gd_track_genre} -->
+<!-- {$gd_track_genre} -->
 
-## fur ur anrufbeantworter <!-- {$gd_info} -->
+# Tracks <!-- {$gd_info} -->
+
+<!-- {$gd_help_ribbon} -->
+
+#### fur ur anrufbeantworter
 
 Tracks <!-- {$gd_selector_tracks} -->
 - [You're not alone](https://soundcloud.com/ugotsta/youre-not-alone)
