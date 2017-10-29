@@ -7,13 +7,9 @@ DasKitz isht fur ur anrufbeantworter. Ya, ve are maken der messagen fur to keepe
 
 #### <!-- {$gd_track_user} -->
 
-## Description
+## What is this?
 
-<!-- {$gd_track_artwork_url} -->
-
-<!-- {$gd_track_description} -->
-
-<!-- {$gd_track_genre} -->
+Hmm, ya. So you have question. And we have the answer.
 
 # Tracks <!-- {$gd_info} -->
 
