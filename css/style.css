@@ -12,6 +12,19 @@
   }
 }
 
+#player {
+  position: fixed;
+  pointer-events: none;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  margin: auto;
+}
+
 .gd-default .peak-3 .section {
   transform: scale(1.25);
 }
@@ -66,6 +79,7 @@ html, body, #wrapper, .container {
 }
 
 .inner {
+  transition: all 0.75s linear;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -141,7 +155,7 @@ html, body, #wrapper, .container {
   margin-bottom: 0.5em;
 }
 
-span#gd-track-artwork_url {
+span[name="gd_track_artwork_url"] {
   display: block;
   float: left;
   padding-right: 10px;
