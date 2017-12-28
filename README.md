@@ -1,5 +1,5 @@
 # DasKitz
-DasKitz isht fur ur anrufbeantworter. Ya, ve are maken der messagen fur to keepen ya entertainen.
+DasKitz isht fur ur anrufbeantworter. Ya, we make message for to keep you entertain.
 
 <!-- {$gd_track_artwork_url} -->
 

@@ -1,0 +1,129 @@
+/*
+    Theme url: https://gist.github.com/Ugotsta/811524a635ca77a11b66772292861a71
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy|Schoolbell');
+
+$color: #FE7A16;
+$bg: #000056;
+
+#wrapper {
+    background: $bg;
+}
+
+* {
+    font-family: 'Schoolbell', sans-serif;
+    letter-spacing: -2px;
+    font-weight: bolder;
+    color: white;
+}
+
+h1, h2, h3 {
+    font-family: 'Luckiest Guy', sans-serif;
+}
+
+.inner a {
+    text-shadow: 2px 2px 2px white, 4px 4px 2px black;
+}
+
+#custom span.gd-var[name="gd_track_title"] a {
+    font-family: 'Luckiest Guy', sans-serif !important;
+    text-transform: uppercase;
+    font-weight: 100;
+    text-decoration: none;
+}
+
+#custom .inner {
+    font-size: 150%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    background: $bg;
+    box-shadow: none;
+    background-blend-mode: normal;
+    overflow: hidden;
+    transform: rotateY(15deg) rotateZ(-6deg) perspective(200px) rotateX(2deg);
+}
+
+.inner::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    pointer-events: none;
+}
+
+#custom .section {
+    position: fixed;
+    max-width: unset;
+    min-width: unset;
+    max-height: unset;
+    min-height: unset;
+    top: 36%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0;
+    font-size: 140%;
+    margin: auto;
+    width: 85vw;
+    height: 30%;
+    overflow: hidden;
+    background: none;
+    border: none;
+    box-shadow: none;
+    mix-blend-mode: normal;
+}
+
+#gd-beatdown .handle-heading {
+    display: none;
+}
+
+span#gd-track-artwork_url {
+    width: 144px;
+    padding: 10px;
+}
+
+span#gd-track-artwork_url img {
+    box-shadow: 2px 2px 2px white, 4px 4px 2px black, 0 0 20px white;
+}
+
+span#gd-track-title a, span#gd-track-user a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 1.2em;
+}
+
+span#gd-track-title a {
+    font-weight: 900;
+    font-size: 1.5em;
+}
+
+#custom .eq {
+    position: absolute;
+    max-width: unset;
+    min-width: unset;
+    max-height: unset;
+    min-height: unset;
+    top: 0;
+    bottom: 40%;
+    left: 0;
+    right: 0;
+    padding: 0;
+    margin: auto;
+    width: 85vw;
+    height: 40vh;
+    background: none;
+    mix-blend-mode: normal;
+    z-index: 1;
+}
+
+#custom .eq .band {
+    background: $color;
+}
